@@ -1,4 +1,4 @@
-#include <raylib/raylib.h>
+#include <raylib/raylib.hpp>
 
 void FinishDrawing(){
 	EndDrawing();

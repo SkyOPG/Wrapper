@@ -1,4 +1,4 @@
-#include <raylib/raylib.h>
+#include <raylib/raylib.hpp>
 
 struct Triangle {
 	Vector2 v1;
